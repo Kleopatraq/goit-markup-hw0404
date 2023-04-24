@@ -594,7 +594,9 @@ body {
 
 .banking-title {}
 
-.banking-text {}
+.banking-text {
+    color: #8e8f99;
+}
 
 .portfolio-title {
     font-family: 'Roboto', sans-serif;
